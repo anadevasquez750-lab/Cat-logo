@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blusas Runchi - Catálogo</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; text-align: center; background-color: #f8f9fa; }
+        header { background-color: #ff6b6b; color: white; padding: 2rem 1rem; }
+        .product { margin: 2rem auto; padding: 1rem; max-width: 300px; border: 1px solid #ddd; border-radius: 10px; background: white; }
+        .price { font-size: 1.5rem; color: #333; margin: 10px 0; }
+        .wholesale { color: #28a745; font-weight: bold; }
+        .btn-whatsapp { display: inline-block; margin-top: 15px; padding: 12px 25px; background-color: #25D366; color: white; text-decoration: none; border-radius: 5px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Blusas Runchi</h1>
+    <p>Estilo y comodidad a tu alcance</p>
+</header>
+
+<div class="product">
+    <h2>Blusa Runchi Exclusiva</h2>
+    <p>Disponibles en varios colores y tallas.</p>
+    <div class="price">Precio por unidad: $8</div>
+    <div class="price wholesale">Precio Mayoreo: $5 c/u</div>
+    <p><small>(A partir de 3 piezas)</small></p>
+    <a href="https://wa.me/TUNUMERO?" class="btn-whatsapp" target="_blank">Pedir por WhatsApp</a>
+</div>
+
+</body>
+</html>
+ 
